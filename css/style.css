@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family:'Raleway', sans-serif; ;
+}
+
+.container{
+    background-color: blue;
+   text-align: justify;
+ 
+   text-align:center;
+   padding: 416px 80px;
+   display: flex;
+   justify-content:center
+   
+  
+}
+#container1{
+  
+   background-image: url(/img/imagem1.jpg);
+   background-size: cover ;
+    height:100%;
+    background-attachment:fixed;
+}
+#container2{
+    
+ 
+    background-image: url(/img/imagem2.jpg);
+    background-size: cover ;
+     height:100%;
+     background-attachment:fixed;
+}
+#container3{
+    
+ 
+    background-image: url(/img/imagem3.jpg);
+    background-size: cover ;
+     height:100%;
+     background-attachment:fixed;
+}
+#container4{
+    
+ 
+    background-image: url(/img/imagem4.jpg);
+    background-size: cover ;
+     height:100%;
+     background-attachment:fixed;
+}
+#container5{
+    
+ 
+    background-image: url(/img/imagem5.jpg);
+    background-size: cover ;
+     height:100%;
+     background-attachment:fixed;
+}
+#container6{
+    
+ 
+    background-image: url(/img/imagem6.jpg);
+    background-size: cover ;
+     height:100%;
+     background-attachment:fixed;
+}
+.textcenter{
+    background-color: #111;
+    width:23%;
+    font-size: 40px;
+    color: #FFF;
+}
+.textbar, header{
+    display:flex;
+    flex-direction:column;
+    text-align:center
+}
+.textbar h1{
+    letter-spacing:5px  
+}
+header{
+    padding: 10px;
+}
+
+
+
+/********************************
+MOUSE SCROLL ANIMATION
+*********************************/
+
